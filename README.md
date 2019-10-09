@@ -1,3 +1,3 @@
 # Recipe
 
-## Live:  https://farrukh-malik.github.io/Recipe/
+## Live:  https://my-app.farrukhmalik46.now.sh/
