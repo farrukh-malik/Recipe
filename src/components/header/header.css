@@ -1,0 +1,20 @@
+header{
+    overflow: hidden;
+    background-color: #a9db59;
+    padding: 20px 0px;
+  }
+
+  #logo{
+    height: 90px;
+    float: left;
+
+  }
+
+  #companyName{
+      color: darkred;
+      float: left;
+  }
+
+  .search{
+    float: right;
+}

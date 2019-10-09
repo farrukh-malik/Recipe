@@ -1,0 +1,12 @@
+.navItem{
+    display: inline;
+    padding: 30px
+}
+
+nav{
+    background: darkred;
+    color: #a9db59
+}
+ul{
+    list-style: square;
+}

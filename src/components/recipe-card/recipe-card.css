@@ -1,0 +1,18 @@
+
+  #instruction{
+    background: lightpink;
+  /* float: left; */
+  /* width: 50%; */
+  text-align: justify
+}
+
+#direction{
+    background: lightskyblue;
+    /* float: right; */
+    /* width: 50%; */
+    text-align: justify
+}
+
+ul{
+    list-style: square;
+}
