@@ -12,7 +12,7 @@ class RecipeCard extends Component {
             <div>
                 <section id="instruction">
                     <h1>INGREDIENTS</h1>
-                    <ul>
+                    <ol>
                         <li>Chicken 1</li>
                         <li>Wheat 1/2 kg</li>
                         <li>Oil 1 cup</li>
@@ -28,7 +28,7 @@ class RecipeCard extends Component {
                         <li>Green chilies 10 (finely chopped)</li>
                         <li>Cumin powder 2 tbsp</li>
                         <li>Garam masala powder 2 tbsp</li>
-                    </ul>
+                    </ol>
                 </section>
 
                 <section id="direction">

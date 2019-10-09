@@ -1,6 +1,6 @@
 .navItem{
     display: inline;
-    padding: 30px
+    padding: 0px 30px 0px 30px;
 }
 
 nav{
@@ -8,5 +8,6 @@ nav{
     color: #a9db59
 }
 ul{
-    list-style: square;
+    margin: 0px;
+    padding: 8px;
 }
